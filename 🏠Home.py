@@ -1,6 +1,7 @@
 #importing library
 import streamlit as sl
 
+#design code for the background + header
 page_bg_img = f"""
 <style>
 .st-emotion-cache-bm2z3a {{
@@ -20,7 +21,6 @@ page_bg_img = f"""
 sl.markdown(page_bg_img, unsafe_allow_html=True)
 
 #tab title and page title
-#sl.set_page_config(page_title="Home")
 title = sl.title("Welcome")
 
 # assigning variables
