@@ -35,5 +35,6 @@ with ((sl.container(border=True))):
     sl.markdown("- Design Documentation: https://docs.streamlit.io/")
     sl.markdown("- Streamlit Community Cloud Deployment Documentation: https://docs.streamlit.io/deploy/streamlit-community-cloud")
     sl.write("")
+    sl.write("")
 
 
