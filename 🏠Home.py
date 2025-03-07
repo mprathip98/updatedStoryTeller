@@ -5,7 +5,7 @@ import streamlit as sl
 page_bg_img = f"""
 <style>
 .st-emotion-cache-bm2z3a {{
-    background-image: url("https://wallpapersok.com/images/hd/bright-green-forest-xdi4v0muk9apz3e2.jpg");
+    background-image: url("https://images.pexels.com/photos/957024/forest-trees-perspective-bright-957024.jpeg");
     background-size: cover;
 }}
 
