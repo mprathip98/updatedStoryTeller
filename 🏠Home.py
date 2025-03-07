@@ -14,7 +14,7 @@ page_bg_img = f"""
 }}
 
 .st-emotion-cache-qcpnpn {{
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.65);
 }}
 </style>
 """
