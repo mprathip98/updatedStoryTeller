@@ -4,7 +4,7 @@ import streamlit as sl
 page_bg_img = f"""
 <style>
 .st-emotion-cache-bm2z3a {{
-    background-image: url("https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("https://cms-artifacts.artlist.io/content/motion-array/1745347/Mountain_Bright_Autumn_Forest_high_resolution_preview_1745347.jpg?Expires=2036329896747&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=to~NvTcwVobd8enJBhvKln5V74E8Atbo6DW0Uu01AGG~dKyeYc9Z344sMDNsJywyrFwF~CDdt~-BJjjE9Ndxv0si~vkFOKx1am7Jumz8kFMCJG1wQDXPFJzrImkVgNgLIFUW82F~yZCG3A46OZzp307RsPd1dKX1PBh1TaRIsZz4UwMM2qPrFFvNiC~-owXjrCUCJ91vyHYxRS6kZipD4vVkfs16swASe7OchJyVPP4YuKRmza48LwzacMT8Y5V-BdlJwOtBweWNbSOV3RY1laOGPQ1lgz4M1LTV~nxfcd3QSZLJNiRGNi0U-Mvc2Y7eYqXQa-S12lL~UV4hRHTl5w__");
     background-size: cover;
 }}
 
