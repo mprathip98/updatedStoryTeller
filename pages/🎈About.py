@@ -4,7 +4,7 @@ import streamlit as sl
 page_bg_img = f"""
 <style>
 .st-emotion-cache-bm2z3a {{
-    background-image: url("https://as1.ftcdn.net/v2/jpg/06/24/79/70/1000_F_624797003_i4mwgvHK1KQo0UWmpds8e3vaY1eXuobd.jpg");
+    background-image: url("https://media.istockphoto.com/id/639915410/photo/green-forest-from-below.jpg?s=612x612&w=0&k=20&c=VGHutMmVhxQxxkpTaq8idDuMYGFmgpY1IGGE-kEDohI=");
     background-size: cover;
 }}
 
