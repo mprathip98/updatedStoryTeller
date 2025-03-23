@@ -5,7 +5,7 @@ import streamlit as sl
 page_bg_img = f"""
 <style>
 .st-emotion-cache-bm2z3a {{
-    background-image: url("https://images.pexels.com/photos/589802/pexels-photo-589802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-image: url("https://images.unsplash.com/photo-1675180126549-4f7ebf96f66a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-size: cover;
 }}
 
@@ -21,8 +21,8 @@ page_bg_img = f"""
 sl.markdown(page_bg_img, unsafe_allow_html=True)
 
 #tab title and page title
-new_title = '<p style="color:#00008B;">Interactive Storyteller</p>'
-sl.title(new_title, unsafe_allow_html=True)
+
+sl.title("Interactive Storyteller")
 
 # assigning variables
 if "story_stage" not in sl.session_state:
