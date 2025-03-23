@@ -21,7 +21,7 @@ page_bg_img = f"""
 sl.markdown(page_bg_img, unsafe_allow_html=True)
 
 #tab title and page title
-new_title = '<p style="color:#00008B; font-size: 52px;">Interactive Storyteller</p>'
+new_title = '<h1 style="color:#00008B;">Interactive Storyteller</p>'
 sl.markdown(new_title, unsafe_allow_html=True)
 
 # assigning variables
