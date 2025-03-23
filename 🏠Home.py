@@ -21,7 +21,8 @@ page_bg_img = f"""
 sl.markdown(page_bg_img, unsafe_allow_html=True)
 
 #tab title and page title
-title = sl.title("fg :white[Interactive Storyteller]")
+new_title = '<p style="font-family:sans-serif; color:Green; font-size: 42px;">New image</p>'
+sl.markdown(new_title, unsafe_allow_html=True)
 
 # assigning variables
 if "story_stage" not in sl.session_state:
