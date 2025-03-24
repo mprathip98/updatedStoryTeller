@@ -38,6 +38,6 @@ Quick Note
 Changes From Last Commit
 ------------------------
 - Added a new responsive background using CSS - All three pages.
-- Added more desing elemnts to the containers and the side bars.
+- Added more design elements to the containers and the side bars.
 - Updated the header to match the background.
   
