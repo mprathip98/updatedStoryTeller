@@ -21,7 +21,7 @@ page_bg_img = f"""
 sl.markdown(page_bg_img, unsafe_allow_html=True)
 
 #tab title and page title
-
+sl.set_page_config(page_title="Home")
 sl.title("Interactive Storyteller")
 
 # assigning variables
