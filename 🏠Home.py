@@ -404,7 +404,7 @@ elif sl.session_state.story_stage == "1b1":
             # option one
             if sl.button("Focus on the brightest star."):
                 sl.session_state.story_stage = "1b1a"
-                sl.session_state.story_text = "The star becomes a guiding light, revealing hidden paths within the library. It leads you to a mysterious glowing chesl."
+                sl.session_state.story_text = "The star becomes a guiding light, revealing hidden paths within the library. It leads you to a mysterious glowing chest."
                 sl.rerun()
 
         with col2:
@@ -428,7 +428,7 @@ elif sl.session_state.story_stage == "1b1a":
         col, col1, col2 = sl.columns([1, 3.5, 3.5])
         with col1:
             # option one
-            if sl.button("Open the chesl."):
+            if sl.button("Open the chest."):
                 sl.session_state.story_stage = "1b1a1"
                 sl.session_state.story_text = "Inside, you find a magical mirror that shows the safest routes through the library."
                 sl.rerun()
