@@ -21,7 +21,7 @@ page_bg_img = f"""
 sl.markdown(page_bg_img, unsafe_allow_html=True)
 
 sl.image("backgroundLibrary.png")
-sl.image("backgroundCarnival.ong")
+sl.image("backgroundCarnival.png")
 
 #tab title and page title
 
