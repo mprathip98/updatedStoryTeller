@@ -20,6 +20,9 @@ page_bg_img = f"""
 """
 sl.markdown(page_bg_img, unsafe_allow_html=True)
 
+sl.image("backgroundLibrary.png")
+sl.image("backgroundCarnival.ong")
+
 #tab title and page title
 
 sl.title("Interactive Storyteller")
